@@ -33,11 +33,11 @@ export default function Contact() {
         </div>
         <div className="flex flex-col justify-center py-12">
           <img
-            src="/public/img/icons/dev.gif"
+            src="/img/icons/dev.gif"
             className="object-contain h-36"
             alt=""
           />
-          {/* <img src="/public/img/icons/commingsoon.gif" className="object-contain h-36" alt="" /> */}
+          {/* <img src="/img/icons/commingsoon.gif" className="object-contain h-36" alt="" /> */}
         </div>
       </div>
     </div>

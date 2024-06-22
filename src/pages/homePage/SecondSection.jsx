@@ -8,12 +8,12 @@ export default function SecondSection() {
           Education
         </div>
         <div
-    className="
+          className="
       relative flex flex-col gap-6 lg:gap-0 w-full h-[16rem] lg:h-96 lg:flex lg:items-center lg:justify-between 
       lg:rounded-lg lg:px-6 lg:bg-cover lg:bg-center 
       bg-none"
-    style={{ backgroundImage: "url('/public/img/siteimg/laphand.jpg')" }}
-  >
+          style={{ backgroundImage: "url('/img/siteimg/laphand.jpg')" }}
+        >
           <div className="flex flex-col text-center">
             <div className="text-lg font-semibold lg:w-80">
               Computer Operator and Programming Assistant{" "}
@@ -23,8 +23,8 @@ export default function SecondSection() {
           </div>
           <div className="flex flex-col text-center">
             <div className="text-lg font-semibold lg:w-80">
-            Diploma in Secretarial Practice 
-              <span className="text-xs pl-1">2019              </span>
+              Diploma in Secretarial Practice
+              <span className="text-xs pl-1">2019 </span>
             </div>
             <div className="text-sm">State Board of Technical Education</div>
           </div>

@@ -10,56 +10,56 @@ export default function ForthSection() {
         <div className="carousel rounded-box">
         <div className="carousel-item">
             <img
-              src="/public/img/personal/4.jpeg"
+              src="/img/personal/4.jpeg"
               alt="Burger"
               className="object-contain h-[25rem]"
             />
           </div>
           <div className="carousel-item">
             <img
-              src="/public/img/personal/stayside - Copy.jpeg"
+              src="/img/personal/stayside - Copy.jpeg"
               alt="Burger"
               className="object-contain h-[25rem]"
             />
           </div>
           <div className="carousel-item">
             <img
-              src="/public/img/personal/stay.jpeg"
+              src="/img/personal/stay.jpeg"
               alt="Burger"
               className="object-contain h-[25rem]"
             />
           </div>
           <div className="carousel-item">
           <img
-              src="/public/img/personal/5.jpeg"
+              src="/img/personal/5.jpeg"
               alt="Burger"
               className="object-contain h-[25rem]"
             />
           </div>
           <div className="carousel-item">
           <img
-              src="/public/img/personal/3.jpeg"
+              src="/img/personal/3.jpeg"
               alt="Burger"
               className="object-contain h-[25rem]"
             />
           </div>
           <div className="carousel-item">
           <img
-              src="/public/img/personal/niyasstay.jpeg"
+              src="/img/personal/niyasstay.jpeg"
               alt="Burger"
               className="object-contain h-[25rem]"
             />
           </div>
           <div className="carousel-item">
           <img
-              src="/public/img/personal/2.jpeg"
+              src="/img/personal/2.jpeg"
               alt="Burger"
               className="object-contain h-[25rem]"
             />
           </div>
           <div className="carousel-item">
           <img
-              src="/public/img/personal/n3.png"
+              src="/img/personal/n3.png"
               alt="Burger"
               className="object-contain h-[25rem]"
             />

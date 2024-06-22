@@ -13,7 +13,7 @@ export default function ThirdSection() {
             <div className="w-10 rounded-full bg-slate-700">
               <img
                 alt="Tailwind CSS chat bubble component"
-                src="/public/img/svg/html.svg"
+                src="/img/svg/html.svg"
                 className="object-contain h-8"
               />
             </div>
@@ -28,7 +28,7 @@ export default function ThirdSection() {
         <div className="chat chat-end">
           <div className="chat-image avatar">
             <div className="w-10 rounded-full bg-slate-800">
-              <img src="/public/img/svg/css3.svg" alt="" />
+              <img src="/img/svg/css3.svg" alt="" />
             </div>
           </div>
           <div className="chat-header">
@@ -44,7 +44,7 @@ export default function ThirdSection() {
             <div className="w-10 rounded-full bg-slate-700">
               <img
                 alt="Tailwind CSS chat bubble component"
-                src="/public/img/svg/bootstrap.svg"
+                src="/img/svg/bootstrap.svg"
                 className="object-contain h-8"
               />
             </div>
@@ -59,7 +59,7 @@ export default function ThirdSection() {
         <div className="chat chat-end">
           <div className="chat-image avatar">
             <div className="w-10 rounded-full bg-slate-800">
-              <img src="/public/img/svg/bootstrap.svg" alt="" />
+              <img src="/img/svg/bootstrap.svg" alt="" />
             </div>
           </div>
           <div className="chat-header">
@@ -75,7 +75,7 @@ export default function ThirdSection() {
             <div className="w-10 rounded-full bg-slate-700">
               <img
                 alt="Tailwind CSS chat bubble component"
-                src="/public/img/svg/php.svg"
+                src="/img/svg/php.svg"
                 className="object-contain h-8"
               />
             </div>
@@ -90,7 +90,7 @@ export default function ThirdSection() {
         <div className="chat chat-end">
           <div className="chat-image avatar">
             <div className="w-10 rounded-full bg-slate-800">
-              <img src="/public/img/svg/laravel.svg" alt="" />
+              <img src="/img/svg/laravel.svg" alt="" />
             </div>
           </div>
           <div className="chat-header">
@@ -106,7 +106,7 @@ export default function ThirdSection() {
             <div className="w-10 rounded-full bg-slate-700">
               <img
                 alt="Tailwind CSS chat bubble component"
-                src="/public/img/svg/react.svg"
+                src="/img/svg/react.svg"
                 className="object-contain h-8"
               />
             </div>
@@ -121,7 +121,7 @@ export default function ThirdSection() {
         <div className="chat chat-end">
           <div className="chat-image avatar">
             <div className="w-10 rounded-full bg-slate-800">
-              <img src="/public/img/svg/vuejs.svg" alt="" />
+              <img src="/img/svg/vuejs.svg" alt="" />
             </div>
           </div>
           <div className="chat-header">
@@ -137,7 +137,7 @@ export default function ThirdSection() {
             <div className="w-10 rounded-full bg-slate-700">
               <img
                 alt="Tailwind CSS chat bubble component"
-                src="/public/img/svg/sql.svg"
+                src="/img/svg/sql.svg"
                 className="object-contain h-8"
               />
             </div>
@@ -152,7 +152,7 @@ export default function ThirdSection() {
         <div className="chat chat-end">
           <div className="chat-image avatar">
             <div className="w-10 rounded-full bg-slate-800">
-              <img src="/public/img/svg/js.svg" alt="" />
+              <img src="/img/svg/js.svg" alt="" />
             </div>
           </div>
           <div className="chat-header">
@@ -168,7 +168,7 @@ export default function ThirdSection() {
             <div className="w-10 rounded-full bg-slate-700">
               <img
                 alt="Tailwind CSS chat bubble component"
-                src="/public/img/svg/jquery.svg"
+                src="/img/svg/jquery.svg"
                 className="object-contain h-8"
               />
             </div>

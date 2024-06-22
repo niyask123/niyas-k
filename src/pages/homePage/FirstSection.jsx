@@ -12,7 +12,7 @@ export default function FirstSection() {
           </div> */}
           <div className=" relative  col-span-6 text-center  flex justify-center">
             <img
-              src="/public/img/icons/bglap.png"
+              src="/img/icons/bglap.png"
               className="object-fill  rounded-3xl  shadow-sm hover:shadow-[f83e6f]"
               alt=""
             />

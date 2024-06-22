@@ -7,7 +7,7 @@ export default function Error() {
         
         <div className="flex flex-col justify-center py-12">
           <img
-            src="/public/img/icons/commingsoon.gif"
+            src="/img/icons/commingsoon.gif"
             className="object-contain h-20"
             alt=""
           />
