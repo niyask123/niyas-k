@@ -41,7 +41,7 @@ function Header() {
             </ul>
           </div>
           <img
-            src="/public/img/icons/niyas1.png"
+            src="/img/icons/niyas1.png"
             className="object-contain h-12 w-auto rounded-full shadow-sm"
             alt=""
           />
