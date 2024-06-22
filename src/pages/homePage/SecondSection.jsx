@@ -14,14 +14,14 @@ export default function SecondSection() {
       bg-none"
           style={{ backgroundImage: "url('/img/siteimg/laphand.jpg')" }}
         >
-          <div className="flex flex-col text-center">
+          <div className="bg-black lg:bg-transparent flex flex-col text-center">
             <div className="text-lg font-semibold lg:w-80">
               Computer Operator and Programming Assistant{" "}
               <span className="text-xs"> 2021</span>
             </div>
             <div className="text-sm">Gov. ITI Kasargod</div>
           </div>
-          <div className="flex flex-col text-center">
+          <div className="bg-black lg:bg-transparent flex flex-col text-center">
             <div className="text-lg font-semibold lg:w-80">
               Diploma in Secretarial Practice
               <span className="text-xs pl-1">2019 </span>
