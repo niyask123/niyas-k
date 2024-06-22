@@ -12,7 +12,7 @@ export default function SecondSection() {
       relative flex flex-col lg:flex-row gap-6 lg:gap-0 w-full h-[16rem] lg:h-96 lg:flex lg:items-center lg:justify-between 
       lg:rounded-lg lg:px-6 lg:bg-cover lg:bg-center 
       bg-none bg-black"
-          style={{ backgroundImage: "url('/img/siteimg/laphand.jpg'); background-color: black" }}
+          style={{ backgroundColor:'black', backgroundImage: "url('/img/siteimg/laphand.jpg');" }}
         >
           <div className="flex flex-col text-center">
             <div className="text-lg font-semibold lg:w-80">
